@@ -6,6 +6,6 @@ public class MenuView {
 	Scanner sc = new Scanner(System.in);
 	
 	public MenuView() {
-		
+		System.out.println();
 	}
 }
